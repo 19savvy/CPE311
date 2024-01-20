@@ -1,0 +1,1 @@
+A program that takes a string (up to 50 characters) and reverses it.

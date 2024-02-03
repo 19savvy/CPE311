@@ -3,14 +3,14 @@
 using namespace std;
 
 int main(){
-	Person Okey, Ken;
+	Person Luffy, Zoro;
 
-	Okey = FillPerson();
+	Luffy = FillPerson();
 	cout << "Enter details for the second person\n";
-	Ken = FillPerson();
+	Zoro = FillPerson();
 	
-	WhoIsOlder(Okey, Ken);
+	WhoIsOlder(Luffy, Zoro);
 
 	system("pause");
-	return 0;
+	return (0);
 };
